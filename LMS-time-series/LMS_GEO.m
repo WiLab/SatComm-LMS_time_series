@@ -278,5 +278,5 @@ time_series_LMS_dB=20.*log10(time_series_LMS);
 
 %% 
 % REFERENCES
-[1] “Rec. ITU-R P.618-12 - Propagation data and prediction methods required for the design of earth-space telecommunication systems.” International Telecommunication Union, Tech. Rep., 2015. 
-[2] “Technical note on the implementation of the land mobile satellite channel model, software usage.” German Aerospace Center DLR, Tech. Rep., 2007. 
+% [1] “Rec. ITU-R P.618-12 - Propagation data and prediction methods required for the design of earth-space telecommunication systems.” International Telecommunication Union, Tech. Rep., 2015. 
+% [2] “Technical note on the implementation of the land mobile satellite channel model, software usage.” German Aerospace Center DLR, Tech. Rep., 2007. 
