@@ -8,9 +8,12 @@
 %
 % December 2015
 %
-% Please cite this code as: ADD RESEARCH PAPER HERE
-%
+% Please cite this code as: Ferreira P. and Wyglinski A.M. Satellite-Communications: LMS time series gen GEO v1.1. GitHub, 2015. doi: 10.5281/zenodo.44695.
+% or
+% Ferreria, P.V.R., Paffenroth, R. and Wyglinski, A.M. "IMM performance analysis for variable measurement delay for satellite communications at Ka-band for LMS channel under rain fading." [Under review].
 
+% For Rain time series simulation for LEO/GEO please refer to:
+% P. Ferreira and A. Wyglinski, Satellite-Communications: 3D rain field and LEO time series v1.1. GitHub, 2016, doi: 10.5281/zenodo.44881. [Online]. Available: https://zenodo.org/badge/latestdoi/19596/WiLab/SatComm-3D rain field
 
 clear all
 clc
